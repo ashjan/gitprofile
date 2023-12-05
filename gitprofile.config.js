@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'jaanashfaq', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,9 +11,9 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'jaanashfaq',
+    twitter: 'jaanashfaq',
+    mastodon: 'jaanashfaq@gmail.com',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
@@ -24,9 +24,9 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://jnsoft.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'jaanashfaq@gmail.com',
   },
   resume: {
     fileUrl:
